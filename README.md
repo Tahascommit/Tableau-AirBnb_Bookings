@@ -10,19 +10,19 @@ Leveraging data from over 49,000 Airbnb listings, I've crafted a series of dashb
 # Dasboard Snaps
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/ee36a77f58d1a637910423996080bfc0f0d5c2da/assets/Cover_image.png" width="703" height="340">
+  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_1.png" height="340">
 </p >
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/ee36a77f58d1a637910423996080bfc0f0d5c2da/assets/Cover_image.png" width="703" height="340">
+  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_2.png" height="340">
 </p >
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/ee36a77f58d1a637910423996080bfc0f0d5c2da/assets/Cover_image.png" width="703" height="340">
+  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_3.png" width="703" height="340">
 </p >
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/ee36a77f58d1a637910423996080bfc0f0d5c2da/assets/Cover_image.png" width="703" height="340">
+  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_4.png" width="703" height="340">
 </p >
 
 
