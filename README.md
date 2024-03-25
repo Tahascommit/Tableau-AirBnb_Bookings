@@ -10,11 +10,11 @@ Leveraging data from over 49,000 Airbnb listings, I've crafted a series of dashb
 # Dasboard Snaps
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_1.png" height="340">
+  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_1.png" width="703" height="340">
 </p >
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_2.png" height="340">
+  <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/47270da50b8faad93aca432829a78c7124fdee54/assets/Snap_2.png" width="703" height="340">
 </p >
 
 <p align="center">
