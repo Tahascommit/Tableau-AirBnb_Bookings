@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <img src="https://github.com/Tahascommit/Tableau-AirBnb_Bookings_Analysis/blob/ee36a77f58d1a637910423996080bfc0f0d5c2da/assets/Cover_image.png" width="703" height="340">
 </p >
 
